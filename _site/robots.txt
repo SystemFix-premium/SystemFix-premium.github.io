@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://systemfix.example.github.io/sitemap.xml
